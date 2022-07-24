@@ -1,0 +1,7 @@
+/lib
+/node_modules
+/__tests__
+/assets
+jest-setup.js
+package-lock.json
+package.json

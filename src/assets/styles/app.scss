@@ -1,0 +1,12 @@
+.theme {
+    &-default {
+        h1 {
+            color: red;
+        }
+    }
+    &-alternate {
+        h1 {
+            color: green;
+        }
+    }
+}
